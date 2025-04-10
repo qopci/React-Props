@@ -1,5 +1,6 @@
 import Hobby from './Hobby.jsx'
 
+// Higher-order component
 function Hobbies({hobbies}) {
     return (
     <div>

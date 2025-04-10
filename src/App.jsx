@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <h1>Hobbies</h1>
-      <Hobbies hobbies={hobbies} />
+      <Hobbies hobbies={hobbies} /> {/* displaying the hobbies array information */}
     </>
   )
 }

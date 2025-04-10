@@ -1,3 +1,4 @@
+// Presentational component
 function Hobby({hobby}) {
     return (
     <div>
